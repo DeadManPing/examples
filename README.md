@@ -80,7 +80,3 @@ DeadManPing uses a **dead man switch** pattern:
 ## Contributing
 
 Found a bug or have a better example? Open an issue or submit a pull request!
-
-## License
-
-These examples are provided as-is for educational purposes. See the main [DeadManPing](https://deadmanping.com?utm_source=github&utm_medium=referral&utm_campaign=examples) repository for license information.

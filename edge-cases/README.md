@@ -31,4 +31,8 @@ Advanced examples for rare scenarios and special use cases.
 
 ## Documentation
 
-See [deadmanping.com](https://deadmanping.com?utm_source=github&utm_medium=referral&utm_campaign=examples) for detailed documentation on monitoring cron jobs.
+See [deadmanping.com](https://deadmanping.com?utm_source=github&utm_medium=referral&utm_campaign=examples) for detailed documentation:
+
+- [Backup Dead Man Switch](https://deadmanping.com/backup-dead-man-switch?utm_source=github&utm_medium=referral&utm_campaign=examples) - Complete guide on backup dead man switch monitoring
+- [Backup Monitoring Without Infrastructure](https://deadmanping.com/blog/backup-monitoring-without-infrastructure?utm_source=github&utm_medium=referral&utm_campaign=examples) - Monitor backups without Kubernetes/Prometheus
+- [Monitor Cron Jobs](https://deadmanping.com/blog/monitor-cron-jobs?utm_source=github&utm_medium=referral&utm_campaign=examples) - Monitor cron jobs without migration

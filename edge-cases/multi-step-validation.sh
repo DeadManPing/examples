@@ -1,8 +1,8 @@
 #!/bin/bash
-# Multi-Step Validation Example
-# Problem: Job has multiple steps that must all succeed
-# Solution: Verify each step and track failures
-# Documentation: https://deadmanping.com/detect-cron-job-partial-failure
+# Multi-Step Backup Validation Example
+# Problem: Backup job has multiple steps (database dump, file sync, notification) - some succeed, others fail
+# Solution: Verify each step and track failures, send failed steps count in payload
+# Documentation: https://deadmanping.com/blog/detect-cron-job-partial-failure
 
 set -e
 

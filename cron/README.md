@@ -89,4 +89,8 @@ This is because:
 
 ## Documentation
 
-See [deadmanping.com/monitor-cron-jobs](https://deadmanping.com/monitor-cron-jobs?utm_source=github&utm_medium=referral&utm_campaign=examples) for detailed documentation.
+See [deadmanping.com](https://deadmanping.com?utm_source=github&utm_medium=referral&utm_campaign=examples) for detailed documentation:
+
+- [Backup Dead Man Switch](https://deadmanping.com/backup-dead-man-switch?utm_source=github&utm_medium=referral&utm_campaign=examples) - Complete guide on backup dead man switch monitoring
+- [Backup Didn't Run - How to Detect](https://deadmanping.com/blog/backup-didnt-run-how-to-detect?utm_source=github&utm_medium=referral&utm_campaign=examples) - Detect when backup jobs don't run
+- [Monitor Cron Jobs](https://deadmanping.com/blog/monitor-cron-jobs?utm_source=github&utm_medium=referral&utm_campaign=examples) - Monitor cron jobs without migration
